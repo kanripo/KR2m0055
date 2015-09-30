@@ -1,0 +1,20 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 大清律例
+#+DATE: 2015-08-24 22:53:19.230415
+#+PROPERTY: ID KR2m0055
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三目錄
+<pb:KR2m0055_WYG_041-1a>¶
+欽定四庫全書¶
+大清律例卷十三目録¶
+　戸律¶
+　　課程¶
+　　　鹽法¶
+　　　監臨勢要中鹽¶
+　　　阻壊鹽法¶
+　　　私茶¶
+<pb:KR2m0055_WYG_041-1b>¶
+　　　私礬¶
+　　　匿税¶
+　　　舶商匿貨¶
+　　　人戸虧兌課程¶

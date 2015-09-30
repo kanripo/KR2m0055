@@ -1,0 +1,11 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 大清律例
+#+DATE: 2015-08-24 22:53:20.614903
+#+PROPERTY: ID KR2m0055
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十七目録
+<pb:KR2m0055_WYG_110-1a>¶
+欽定四庫全書¶
+大清律例卷四十七目錄¶
+　總類¶
+　　比引律條(三十/條)¶
